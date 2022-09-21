@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Resume</title>
+</head>
+
+<link rel="stylesheet" href="sethu.css">
+
+<body>
+<div class="bg">
+    <div class="align">
+    <h1>SETHU MADHAVAN Y </h1>
+    <h1>    </h1>
+    <div>
+        <img src="sethuphoto.jpeg" alt=" photo" width="160" height="200">
+    </div>
+   </div>
+   <div>
+   <br>
+   <hr>
+   <h3>CARRER OBJECTIVE</h3>
+   <p>To secure a good position in this organization to expand my knowledge and work for the
+       betterment of the organization</p>
+</div>
+<div class="edu">
+   <h3>EDUCATION</h3>
+   <h3>Bachelor of Engineering (ECE) CGPA : 8.02 /10</h3>
+   <span>Rajalakshmi Engineering College, Chennai</span>
+   <h3>12 th | 69.07%</h3>
+   <span>thiruthangal nadar vidyalaya</span>
+   <h3>10th | 88%</h3>
+   <span>sriram dayal khemka vivekananda vidyalaya</span><br>
+</div>
+<div>
+   <h3>PROJECT EXPERIENCE</h3>
+   <ul>
+       <li>
+           <p>Eye strain detector</p>
+       </li>
+       
+   </ul>
+</div>
+<div>
+   <h3>INTERNSHIP</h3>
+   <h3>NAME OF COMPANY:BSNL</h3>
+   <ul>
+       <li>
+           <span>Learned about Tele Communication</span>
+       </li>
+       <li>
+           <span>Learned about optical fiber and its usage</span>
+       </li>
+   </ul>
+</div>
+<div>
+   <h3>ACHIVEMENTS</h3>
+
+   <ul>
+       <li>state level badminton player </span>
+       </li>
+       <li>
+           <span> completed certification in data analytics </span>
+       </li>
+   </ul>
+</div>
+<section class="side">
+    <div class="skills">
+        <h2>Skills</h2>
+        <h3>Technical</h3>
+        <ul>
+            <li><span>JAVA</span> </li>
+            <li><span>Python</span></li>
+           
+        </ul>
+    </div>
+    <div class="reference">
+        <h3>Personal</h3>
+        <ul>
+            <li> <span>Self Motivated</span> </li>
+            <li><span>Can do attitude</span></li>
+            <li><span>Flexibility</span></li>
+        </ul>
+    </div>
+
+    <div>
+        <h3>HOBBIES</h3>
+        <ul>
+            <li> <span>Painting</span> </li>
+            <li> <span> Photography</span> </li>
+            <li> <span>Singing</span> </li>
+        </ul>
+    </div>
+    <div>
+        <h3>PERSONAL INFORMATION</h3>
+        <li><span><span class="caps">Date of Birth</span>: 07.05.2002
+        <li><span><span class="caps">Languages known</span>:
+                <ul>
+                    <li>Tamil</li>
+                    <li>English</li>
+                  
+                </ul>
+            </span></li>
+            <li><span><span class="caps">Gender</span>: Male</span></li>
+            <li><span><span class="caps">Nationality</span>:Indian</span></li>
+    </div>
+</section>
+</main>
+</body>
+
+</html>
